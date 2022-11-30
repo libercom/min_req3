@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBslYa+ur3rKfpCTVEtR8ObP1o7Se9LCAyg6SSRvpvR1ykRAbC8qE7coApOII6n8C4XG2iqSR4heRt1k0a+7sg==",
+  "success": true,
+  "projectFilePath": "D:\\Documets\\Projects\\MinReq_Lab3\\Todo\\Todo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ignat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ignat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ignat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ignat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ignat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ignat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
